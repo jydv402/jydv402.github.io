@@ -48832,7 +48832,7 @@ s.f.a0T(B.S4)}return null},
 $S:0}
 A.NB.prototype={
 F(a){var s=A.aC(["/start",new A.abO(),"/home",new A.abP(),"/todo",new A.abQ(),"/mood",new A.abR(),"/login",new A.abS(),"/dr",new A.abT(),"/load",new A.abU()],t.N,t.Ab)
-return new A.AM(A.aDz(),s,"Flutter Demo",!1,null)}}
+return new A.AM(A.aDz(),s,"Nirvana",!1,null)}}
 A.abO.prototype={
 $1(a){return B.Nk},
 $S:305}
